@@ -1,0 +1,37 @@
+body{
+	background-color: #e6c24c;
+}
+
+h1.name{
+	color: #000000;
+	font-family: 'Ubuntu';
+	font-size: 60px;
+}
+
+div.intro{
+	background-color: #f8ed62;
+	word-wrap: break-word;
+	color: #000000;
+	font-family: 'Ubuntu';
+	display: inline-block;
+
+	box-sizing: border-box;
+	width: 50%;
+	margin-left: 15%;
+
+	border: solid;
+	border-color: #dab600;
+	border-width: 1%;
+	border-radius: 5px;
+	padding-left: 5%;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+div.tooltip{
+	display: inline-block;
+
+	box-sizing: border-box;
+	margin-left: 5%;
+	width: 1%;
+}
